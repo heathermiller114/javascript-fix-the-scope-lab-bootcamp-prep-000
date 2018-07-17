@@ -28,3 +28,4 @@ var funkyFunction = function outer(){
   }
 }
 var theFunk = funkyFunction()
+theFunk = theFunk()
