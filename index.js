@@ -28,5 +28,5 @@ var funkyFunction = function outer(){
     return "FUNKY!"
   }
 }
-inner();
+
 
